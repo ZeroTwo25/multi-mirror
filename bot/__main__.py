@@ -44,7 +44,7 @@ def stats(update, context):
 @run_async
 def start(update, context):
     start_string = f'''
-Hi, I'm Multi-mirror, a multipurpose bot for [Rem](t.me/Xroxyx)
+Hi, I'm Multi-mirror, a multipurpose bot for [Ihsan•イサン](t.me/RxyMX)
 Type /{BotCommands.HelpCommand} to get a list of available commands
 '''
     update.effective_message.reply_photo("https://telegra.ph/file/ae781365fa22b1fd0a917.jpg", start_string, parse_mode=ParseMode.MARKDOWN)
