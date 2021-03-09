@@ -1,6 +1,5 @@
-[![Multi-mirror](https://telegra.ph/file/ae781365fa22b1fd0a917.jpg)](https://youtu.be/Pk_TthHfLeE)
-
-# Multi Mirror Bot
+[![Multi-mirror](https://telegra.ph/file/ae781365fa22b1fd0a917.jpg)](https://t.me/animechanelindo)
+# Multi Mirror
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Getting Google OAuth API credential file
